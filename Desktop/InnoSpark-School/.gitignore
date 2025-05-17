@@ -1,0 +1,34 @@
+vim .gitignore
+
+/Application Data/
+/Cookies/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+
+git add .gitignore
+git commit -m "Updated .gitignore to ignore system files"
+git push -u origin main
+
+git add .gitignore
+git commit -m "Updated .gitignore to ignore system files"
+git push -u origin main
+
+
+
+
+
+:wq
+
+:wq!
+
+:q!
+git add .gitignore
+git commit -m "Updated .gitignore to ignore system files"
+git push -u origin main
+
